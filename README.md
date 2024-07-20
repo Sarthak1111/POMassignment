@@ -13,6 +13,21 @@ About:-
 A user-friendly Online Bookstore project in which users can log in or register, view the available books. The project can also be used by the administrator, who can add new books, remove books, increase and decrease the quantity of books, change the price of the books as well as maintain the selling history of books.
 
 
+Security Practices:-
+
+Input Validation: All inputs are validated and sanitized before being processed.
+
+Secure Authentication: Credentials are handled securely.
+
+Authorization: Users are authorized to access certain features or data based on their roles.
+
+
+Logging and Error Handling:-
+
+Logging is implemented using SLF4J for robust error handling and diagnostics. Meaningful error messages are provided to improve the user experience.
+
+
+
 This Website is built for following purpose:-
 
 Adding a book
@@ -110,8 +125,8 @@ Click the "Fork" button at the top-right of this repository.
 
 2. Clone the Forked Repository
 
-git clone https://github.com/yourusername/user-management-system.git
-cd user-management-system
+git clone https://github.com/Sarthak1111/POMassignment.git
+cd POMassignmen
 
 3. Create a New Branch
 
