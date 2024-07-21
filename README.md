@@ -1,14 +1,14 @@
 Dummy BookStore https://www.testbook.com/
 
 
-Repo contains:
+**Repo contains:**
 
 Manaul Testing- Test Plan, Test Cases and Bug Report.
 
 Automation Testing- Selenium TestNG Automation scripts.
 
 
-About:-
+**About:-**
 
 A user-friendly Online Bookstore project in which users can log in or register, view the available books. The project can also be used by the administrator, who can add new books, remove books, increase and decrease the quantity of books, change the price of the books as well as maintain the selling history of books.
 
@@ -29,19 +29,27 @@ Logging is implemented using SLF4J for robust error handling and diagnostics. Me
 
 
 
-This Website is built for following purpose:-
+**This Website is built for following purpose:-**
 
 Adding a book
+
 Retrieving a book
+
 Editing the Profile section
 
-Store owner/Admin Have Following Access for this online store site:-
+
+**Store owner/Admin Have Following Access for this online store site:-**
 
 Add New Books.
+
 View Books Available.
+
 Remove Books.
 
-Users Have Following Access for this online store site:-
+Update Books
+
+
+**Users Have Following Access for this online store site:-**
 
 Create New Account or Register.
 Login.
@@ -50,37 +58,49 @@ View Dashboard
 View Profile Section
 
 
-Technologies used:-
+**Technologies used:-**
 
 Front-End Development:-
 
 HTML
+
 CSS
+
 VueJS
 
-Back-End Development:-
+**Back-End Development:-**
 
 Java [JDK 8+]
+
 Database:
+
 GraphQL
 
-Testing:-
+**Testing:-**
 
 Java
+
 Selenium
+
 TestNG
 
-Dependencies and prerequisites:-
+**Dependencies and prerequisites:-**
 
 -Java 8 Installed
+
 -Selenium
+
 -WebDriverManager
+
 -testng
+
 -slf4j-api
+
 -slf4j-simple
 
 
-Setup Instructions:-
+
+**Setup Instructions:-**
 
 1. Clone the Repository
 
@@ -108,15 +128,15 @@ To execute the tests, use the following command:
 mvn test
 
 
-Specific point:-
-
+**Specific point:-
+**
 How to run:
 
 *****NOTE-Code will not run as this is a dummy website url and dummy locators******
 
 
 
-Contribution Guidelines:- 
+**Contribution Guidelines:- **
 
 We welcome contributions! To contribute, follow these steps:
 
@@ -148,13 +168,13 @@ git push origin feature-name
 Go to the original repository and click the "New Pull Request" button.
 
 
-Author Contact:-
+**Author Contact:-**
 
 LinkedIn: https://www.linkedin.com/in/sarthakkaushik1111/
 
 Github: https://github.com/Sarthak1111
 
 
-License:-
+**License:-**
 
 Copyright © 2024 Sarthak Kaushik.
