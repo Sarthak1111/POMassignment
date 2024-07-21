@@ -125,7 +125,7 @@ mvn clean install
 
 To execute the tests, use the following command:
 
-mvn test
+mvn test, OR goto testng.xml file> right click> Run As> TestNG Suite
 
 
 **Specific point:-
